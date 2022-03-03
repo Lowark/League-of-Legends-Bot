@@ -12,9 +12,9 @@ namespace LeagueBot
     {
         private static ChampionEnum[] Champions = new ChampionEnum[]
         {
-			ChampionEnum.Ashe,
-            ChampionEnum.Sivir,
-            ChampionEnum.MissFortune,
+			ChampionEnum.Ornn,
+            ChampionEnum.Sion,
+            ChampionEnum.Sett,
             
         };
 
